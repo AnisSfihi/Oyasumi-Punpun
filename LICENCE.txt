@@ -1,0 +1,9 @@
+Copyright (c) 2026 Anis Sfihi
+
+Tous droits réservés. Ce code source et les fichiers associés sont la propriété exclusive de l'auteur.
+Aucune utilisation, copie, modification, fusion, publication, distribution, sous-licence ou vente
+n'est autorisée sans l'autorisation écrite préalable de l'auteur.
+
+All rights reserved. This source code and associated files are the exclusive property of the author.
+No use, copying, modification, merging, publishing, distribution, sublicensing, or selling
+is permitted without the prior written permission of the author.
